@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.ept		set filetype=heptagon
+au BufRead,BufNewFile *.ep[it]		set filetype=heptagon
